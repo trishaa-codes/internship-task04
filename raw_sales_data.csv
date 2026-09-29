@@ -1,0 +1,51 @@
+Order_ID,Customer_Name,Email,City,Product,Category,Quantity,Unit_Price,Order_Date,Payment_Status
+ORD001,  Alice Johnson ,alice@email.com,Chennai,Laptop,Electronics,2,₹55000,2026-09-01,Paid
+ORD002,Rahul Sharma,rahul@email.com,chennai,Mouse,electronics,5,₹1200,01/09/2026,paid
+ORD003,Priya Nair,priya@email.com,CHENNAI ,Keyboard, Electronics ,3,1500,2026/09/02,Paid
+ORD004,Arjun Kumar,arjun@email.com,Bangalore,Monitor,Electronics,2,₹18000,2026-09-02,Pending
+ORD005,Meera Iyer,meera@email.com,Bengaluru,Chair,Furniture,1,8500,03-09-2026,PENDING
+ORD006,Vikram Singh,vikram@email.com,Mumbai,Desk,furniture,2,₹12000,2026-09-03,Paid
+ORD007,Sneha Rao,sneha@email.com,Mumbai,Laptop,ELECTRONICS,1,₹55000,2026-09-04,PAID
+ORD008,Karan Patel,karan@email.com,Pune,Headphones,Electronics,4,₹3000,2026-09-04,Paid
+ORD009,Ananya Das,ananya@email.com,Pune,Webcam,electronics,2,2500,2026-09-05,Paid
+ORD010,Rohit Verma,rohit@email.com,Delhi,Table,Furniture,1,₹9500,2026-09-05,Cancelled
+ORD011,Neha Kapoor,neha@email.com,Delhi,Chair,Furniture,3,₹8500,2026-09-06,Paid
+ORD012,Aman Gupta,aman@email.com,Hyderabad,Laptop,Electronics,1,₹55000,2026-09-06,Paid
+ORD013,Isha Menon,isha@email.com,Hyderabad,Mouse,Electronics,,₹1200,2026-09-07,Paid
+ORD014,Dev Shah,dev@email.com,Ahmedabad,Keyboard,Electronics,2,₹1500,2026-09-07,Pending
+ORD015,Tanya Roy,tanya@email.com,Kolkata,Monitor,Electronics,1,₹18000,2026-09-08,Paid
+ORD016,Sahil Jain,sahil@email.com,Jaipur,Desk,Furniture,2,₹12000,2026-09-08,Paid
+ORD017,Riya Bose,riya@email.com,Kolkata,Laptop,electronics,1,₹55000,2026-09-09,Paid
+ORD018,Nitin Joshi,nitin@email.com,Delhi,Headphones,Electronics,3,₹3000,2026-09-09,Paid
+ORD019,Pooja S,pooja@email.com,Pune,Webcam,Electronics,2,₹2500,2026-09-10,Paid
+ORD020,Aarav Mehta,aarav@email.com,Mumbai,Chair,Furniture,2,₹8500,2026-09-10,Pending
+ORD021,  Alice Johnson ,alice@email.com,Chennai,Laptop,Electronics,2,₹55000,2026-09-01,Paid
+ORD022,Manish Yadav,manish@email.com,Chennai,Mouse,Electronics,4,₹1200,bad-date,Paid
+ORD023,Kavya R,kavya@email.com,Bengaluru,Keyboard,Electronics,2,₹1500,2026-09-11,paid
+ORD024,Varun B,varun@email.com,Bangalore,Desk,Furniture,1,₹12000,2026-09-11,Paid
+ORD025,Divya Krish,divya@email.com,Mumbai,Laptop,Electronics,1,₹55000,2026-09-12,Paid
+ORD026,Suresh M,suresh@email.com,Mumbai,Monitor,Electronics,2,₹18000,2026-09-12,Pending
+ORD027,Lavanya P,lavanya@email.com,Chennai,Table,Furniture,1,₹9500,2026-09-13,Paid
+ORD028,Gautam K,gautam@email.com,Pune,Chair,Furniture,2,₹8500,2026-09-13,paid
+ORD029,Aditi S,aditi@email.com,Delhi,Laptop,Electronics,1,₹55000,2026-09-14,Paid
+ORD030,Harish N,harish@email.com,Hyderabad,Mouse,Electronics,5,₹1200,2026-09-14,Paid
+ORD031,Nisha V,nisha@email.com,Hyderabad,Keyboard,Electronics,2,₹1500,2026-09-15,Pending
+ORD032,Rakesh T,rakesh@email.com,Ahmedabad,Monitor,Electronics,1,₹18000,2026-09-15,Paid
+ORD033,Shreya G,shreya@email.com,Kolkata,Desk,Furniture,1,₹12000,2026-09-16,Paid
+ORD034,Mohit A,mohit@email.com,Jaipur,Chair,Furniture,3,₹8500,2026-09-16,Paid
+ORD035,Anjali K,anjali@email.com,Chennai,Laptop,Electronics,1,₹55000,2026-09-17,Paid
+ORD036,Yash P,yash@email.com,Pune,Headphones,Electronics,2,₹3000,2026-09-17,Cancelled
+ORD037,Simran D,simran@email.com,Delhi,Webcam,Electronics,3,₹2500,2026-09-18,Paid
+ORD038,Abhishek L,abhishek@email.com,Mumbai,Table,Furniture,2,₹9500,2026-09-18,Paid
+ORD039,Maya R,maya@email.com,Bangalore,Mouse,electronics,4,₹1200,2026-09-19,Paid
+ORD040,Kabir H,kabir@email.com,Bengaluru,Laptop,Electronics,1,₹55000,2026-09-19,Paid
+ORD041,Nandini J,nandini@email.com,Kolkata,Monitor,Electronics,2,₹18000,2026-09-20,Pending
+ORD042,Aditya C,aditya@email.com,Hyderabad,Desk,Furniture,1,₹12000,2026-09-20,Paid
+ORD043,Pallavi M,pallavi@email.com,Pune,Chair,Furniture,2,₹8500,2026-09-21,Paid
+ORD044,Sanjay R,sanjay@email.com,Delhi,Laptop,Electronics,1,₹55000,2026-09-21,Paid
+ORD045,  Farah Khan,farah@email.com,Mumbai,Keyboard,Electronics,2,₹1500,2026-09-22,Paid
+ORD046,Reema B,reema@email.com,Chennai,Mouse,Electronics,3,₹1200,2026-09-22,Paid
+ORD047,John Mathew,john@email.com,Chennai,Monitor,Electronics,1,₹18000,2026-09-23,Paid
+ORD048,Sonia P,sonia@email.com,Bengaluru,Desk,Furniture,2,₹12000,2026-09-23,Pending
+ORD049,Ajay S,ajay@email.com,Pune,Laptop,Electronics,1,₹55000,2026-09-24,Paid
+ORD050,Keerthi V,keerthi@email.com,Delhi,Chair,Furniture,2,₹8500,2026-09-24,Paid

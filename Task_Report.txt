@@ -1,0 +1,38 @@
+DATA CLEANING & REPORTING AUTOMATION — TASK REPORT
+
+1. Introduction
+This project automates data cleaning and reporting for a sales dataset. The goal is to reduce manual preprocessing effort and produce repeatable reports and visual summaries.
+
+2. Data Quality Issues Identified
+The source dataset contained missing values, duplicate order records, inconsistent capitalization, extra whitespace, currency symbols, mixed date formats and an invalid date.
+
+3. Cleaning Process
+• Text fields were stripped and standardized.
+• City, category and payment status values were normalized.
+• Currency symbols were removed and Unit_Price was converted to numeric.
+• Quantity was converted to numeric.
+• Invalid dates were converted to missing values and replaced with the median valid date.
+• Duplicate Order_ID records were removed.
+• Missing Quantity and Unit_Price values were filled using median values.
+• Revenue was calculated as Quantity × Unit_Price.
+
+4. Reporting
+Automated summaries were generated for city, category, product, payment status and daily revenue. An Excel workbook contains the cleaned dataset, KPI dashboard and summary sheets.
+
+5. Visualizations
+The project generates:
+• Revenue by City
+• Revenue by Category
+• Daily Revenue Trend
+• Payment Status Distribution
+
+6. Outcome
+Original records: 50
+Duplicate records removed: 0
+Missing values handled: 5
+Final clean records: 50
+Total revenue: ₹1,239,100.00
+Average order value: ₹24,782.00
+
+7. Conclusion
+The workflow provides a reusable approach to data preprocessing, cleaning, analysis and automated reporting. The same script can be reused with a similar CSV sales dataset by replacing the input file.
